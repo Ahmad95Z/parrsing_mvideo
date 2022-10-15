@@ -1,0 +1,847 @@
+{
+    "success": true,
+    "messages": [],
+    "body": {
+        "availablePersonalPromos": [],
+        "promoConfiguratorConfig": {},
+        "materialPrices": [
+            {
+                "productId": "30063191",
+                "price": {
+                    "productId": "30063191",
+                    "basePrice": 128999,
+                    "salePrice": 104999,
+                    "basePromoPrice": 104999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237815",
+                            "promoName": "Скидка по акции",
+                            "discount": 24000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063191",
+                    "total": 21000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3150
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17850
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400007561",
+                "price": {
+                    "productId": "400007561",
+                    "basePrice": 128990,
+                    "salePrice": 128990,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": true,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400007561",
+                    "total": 25798,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3870
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 21928
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063590",
+                "price": {
+                    "productId": "30063590",
+                    "basePrice": 159999,
+                    "salePrice": 101699,
+                    "basePromoPrice": 101699,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237382",
+                            "promoName": "Скидка по акции",
+                            "discount": 58300
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063590",
+                    "total": 20340,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3051
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17289
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063582",
+                "price": {
+                    "productId": "30063582",
+                    "basePrice": 99999,
+                    "salePrice": 99999,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063582",
+                    "total": 20000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3000
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17000
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059075",
+                "price": {
+                    "productId": "30059075",
+                    "basePrice": 159999,
+                    "salePrice": 104999,
+                    "basePromoPrice": 104999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237804",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059075",
+                    "total": 21000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3150
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17850
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059068",
+                "price": {
+                    "productId": "30059068",
+                    "basePrice": 95399,
+                    "salePrice": 95399,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059068",
+                    "total": 19080,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2862
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 16218
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "4199171",
+                "price": {
+                    "productId": "4199171",
+                    "basePrice": 94990,
+                    "salePrice": 94990,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": true,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "4199171",
+                    "total": 18998,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2850
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 16148
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063190",
+                "price": {
+                    "productId": "30063190",
+                    "basePrice": 99999,
+                    "salePrice": 99999,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063190",
+                    "total": 20000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3000
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17000
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059085",
+                "price": {
+                    "productId": "30059085",
+                    "basePrice": 214999,
+                    "salePrice": 159999,
+                    "basePromoPrice": 159999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237820",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059085",
+                    "total": 32000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 4800
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 27200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063586",
+                "price": {
+                    "productId": "30063586",
+                    "basePrice": 214999,
+                    "salePrice": 159999,
+                    "basePromoPrice": 159999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237827",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063586",
+                    "total": 32000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 4800
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 27200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063581",
+                "price": {
+                    "productId": "30063581",
+                    "basePrice": 99999,
+                    "salePrice": 99999,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063581",
+                    "total": 20000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3000
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17000
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063192",
+                "price": {
+                    "productId": "30063192",
+                    "basePrice": 194999,
+                    "salePrice": 124999,
+                    "basePromoPrice": 124999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237819",
+                            "promoName": "Скидка по акции",
+                            "discount": 70000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063192",
+                    "total": 25000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3750
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 21250
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059081",
+                "price": {
+                    "productId": "30059081",
+                    "basePrice": 194999,
+                    "salePrice": 124999,
+                    "basePromoPrice": 124999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237820",
+                            "promoName": "Скидка по акции",
+                            "discount": 70000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059081",
+                    "total": 25000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3750
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 21250
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "4199174",
+                "price": {
+                    "productId": "4199174",
+                    "basePrice": 99990,
+                    "salePrice": 99990,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": true,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "4199174",
+                    "total": 19998,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3000
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 16998
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "4199172",
+                "price": {
+                    "productId": "4199172",
+                    "basePrice": 94990,
+                    "salePrice": 94990,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": true,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "4199172",
+                    "total": 18998,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 2850
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 16148
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063587",
+                "price": {
+                    "productId": "30063587",
+                    "basePrice": 214999,
+                    "salePrice": 159999,
+                    "basePromoPrice": 159999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237827",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063587",
+                    "total": 32000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 4800
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 27200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063585",
+                "price": {
+                    "productId": "30063585",
+                    "basePrice": 214999,
+                    "salePrice": 159999,
+                    "basePromoPrice": 159999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237827",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063585",
+                    "total": 32000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 4800
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 27200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063580",
+                "price": {
+                    "productId": "30063580",
+                    "basePrice": 99999,
+                    "salePrice": 99999,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063580",
+                    "total": 20000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3000
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17000
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059073",
+                "price": {
+                    "productId": "30059073",
+                    "basePrice": 159999,
+                    "salePrice": 104999,
+                    "basePromoPrice": 104999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237801",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059073",
+                    "total": 21000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3150
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17850
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063584",
+                "price": {
+                    "productId": "30063584",
+                    "basePrice": 214999,
+                    "salePrice": 159999,
+                    "basePromoPrice": 159999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237827",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063584",
+                    "total": 32000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 4800
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 27200
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "400006243",
+                "price": {
+                    "productId": "400006243",
+                    "basePrice": 133390,
+                    "salePrice": 133390,
+                    "basePromoPrice": null,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": true,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "400006243",
+                    "total": 4002,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 4002
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059072",
+                "price": {
+                    "productId": "30059072",
+                    "basePrice": 128999,
+                    "salePrice": 104999,
+                    "basePromoPrice": 104999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237796",
+                            "promoName": "Скидка по акции",
+                            "discount": 24000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059072",
+                    "total": 21000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3150
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17850
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30063591",
+                "price": {
+                    "productId": "30063591",
+                    "basePrice": 159999,
+                    "salePrice": 104999,
+                    "basePromoPrice": 104999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237827",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30063591",
+                    "total": 21000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 3150
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 17850
+                        }
+                    ]
+                }
+            },
+            {
+                "productId": "30059090",
+                "price": {
+                    "productId": "30059090",
+                    "basePrice": 214999,
+                    "salePrice": 159999,
+                    "basePromoPrice": 159999,
+                    "nonConfigurablePersonalPrice": null,
+                    "discounts": [
+                        {
+                            "type": "PRICE",
+                            "promoId": "5000237820",
+                            "promoName": "Скидка по акции",
+                            "discount": 55000
+                        }
+                    ],
+                    "applyManualDiscount": null,
+                    "applyPersonalPrice": false,
+                    "isFinalPrice": false,
+                    "supplier": null
+                },
+                "bonusRubles": {
+                    "productId": "30059090",
+                    "total": 32000,
+                    "breakdown": [
+                        {
+                            "promoName": "по программе M.Club",
+                            "bonusType": "490000",
+                            "total": 4800
+                        },
+                        {
+                            "promoName": "Кэшбэк 20% на цифровую технику",
+                            "bonusType": "490001",
+                            "total": 27200
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

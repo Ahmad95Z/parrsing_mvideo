@@ -1,0 +1,2303 @@
+{
+    "success": true,
+    "messages": [],
+    "body": {
+        "products": [
+            {
+                "productId": "30063591",
+                "name": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue",
+                "nameTranslit": "smartfon-apple-iphone13promax-256gb-sierra-blue",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063591",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 256GB Sierra Blue",
+                "rating": {
+                    "star": 4.962962962962963,
+                    "count": 27,
+                    "percent": 91
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063591b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063591.jpg",
+                    "Pdb/30063591b.jpg",
+                    "Pdb/30063591b1.jpg",
+                    "Pdb/30063591b2.jpg",
+                    "Pdb/30063591b3.jpg",
+                    "Pdb/30063591b4.jpg",
+                    "Pdb/30063591b5.jpg",
+                    "Pdb/30063591b6.jpg",
+                    "Pdb/30063591b7.jpg",
+                    "Pdb/30063591b8.jpg",
+                    "Pdb/30063591b9.jpg",
+                    "Pdb/30063591s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063191",
+                "name": "Смартфон Apple iPhone 13 Pro Max 256GB Alpine Green",
+                "nameTranslit": "smartfon-apple-iphone-13-pro-max-256gb-alpine-green",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063191",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 256GB Alpine Green",
+                "rating": {
+                    "star": 4.882352941176471,
+                    "count": 17,
+                    "percent": 91
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063191b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063191.jpg",
+                    "Pdb/30063191b.jpg",
+                    "Pdb/30063191b1.jpg",
+                    "Pdb/30063191b2.jpg",
+                    "Pdb/30063191b3.jpg",
+                    "Pdb/30063191s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063590",
+                "name": "Смартфон Apple iPhone 13 Pro Max 256GB Gold",
+                "nameTranslit": "smartfon-apple-iphone13promax-256gb-gold",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063590",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 256GB Gold",
+                "rating": {
+                    "star": 4.9411764705882355,
+                    "count": 17,
+                    "percent": 91
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063590b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063590.jpg",
+                    "Pdb/30063590b.jpg",
+                    "Pdb/30063590b1.jpg",
+                    "Pdb/30063590b2.jpg",
+                    "Pdb/30063590b3.jpg",
+                    "Pdb/30063590b4.jpg",
+                    "Pdb/30063590b5.jpg",
+                    "Pdb/30063590b6.jpg",
+                    "Pdb/30063590b7.jpg",
+                    "Pdb/30063590b8.jpg",
+                    "Pdb/30063590b9.jpg",
+                    "Pdb/30063590s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063190",
+                "name": "Смартфон Apple iPhone 13 Pro Max 128GB Alpine Green",
+                "nameTranslit": "smartfon-apple-iphone-13-pro-max-128gb-alpine-green",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063190",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 128GB Alpine Green",
+                "rating": {
+                    "star": 4.733333333333333,
+                    "count": 15,
+                    "percent": 91
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063190b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063190.jpg",
+                    "Pdb/30063190b.jpg",
+                    "Pdb/30063190b1.jpg",
+                    "Pdb/30063190b2.jpg",
+                    "Pdb/30063190b3.jpg",
+                    "Pdb/30063190s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "128",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063580",
+                "name": "Смартфон Apple iPhone 13 Pro Max 128GB Graphite",
+                "nameTranslit": "smartfon-apple-iphone13promax-128gb-graphite",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063580",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 128GB Graphite",
+                "rating": {
+                    "star": 5,
+                    "count": 18,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063580b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063580.jpg",
+                    "Pdb/30063580b.jpg",
+                    "Pdb/30063580b1.jpg",
+                    "Pdb/30063580b2.jpg",
+                    "Pdb/30063580b3.jpg",
+                    "Pdb/30063580b4.jpg",
+                    "Pdb/30063580b5.jpg",
+                    "Pdb/30063580b6.jpg",
+                    "Pdb/30063580b7.jpg",
+                    "Pdb/30063580b8.jpg",
+                    "Pdb/30063580b9.jpg",
+                    "Pdb/30063580s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "128",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063582",
+                "name": "Смартфон Apple iPhone 13 Pro Max 128GB Gold",
+                "nameTranslit": "smartfon-apple-iphone13promax-128gb-gold",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063582",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 128GB Gold",
+                "rating": {
+                    "star": 5,
+                    "count": 17,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063582b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063582.jpg",
+                    "Pdb/30063582b.jpg",
+                    "Pdb/30063582b1.jpg",
+                    "Pdb/30063582b2.jpg",
+                    "Pdb/30063582b3.jpg",
+                    "Pdb/30063582b4.jpg",
+                    "Pdb/30063582b5.jpg",
+                    "Pdb/30063582b6.jpg",
+                    "Pdb/30063582b7.jpg",
+                    "Pdb/30063582b8.jpg",
+                    "Pdb/30063582b9.jpg",
+                    "Pdb/30063582s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "128",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063581",
+                "name": "Смартфон Apple iPhone 13 Pro Max 128GB Silver",
+                "nameTranslit": "smartfon-apple-iphone13promax-128gb-silver",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063581",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 128GB Silver",
+                "rating": {
+                    "star": 5,
+                    "count": 14,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063581b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063581.jpg",
+                    "Pdb/30063581b.jpg",
+                    "Pdb/30063581b1.jpg",
+                    "Pdb/30063581b2.jpg",
+                    "Pdb/30063581b3.jpg",
+                    "Pdb/30063581b4.jpg",
+                    "Pdb/30063581b5.jpg",
+                    "Pdb/30063581b6.jpg",
+                    "Pdb/30063581b7.jpg",
+                    "Pdb/30063581b8.jpg",
+                    "Pdb/30063581b9.jpg",
+                    "Pdb/30063581s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "128",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063192",
+                "name": "Смартфон Apple iPhone 13 Pro Max 512GB Alpine Green",
+                "nameTranslit": "smartfon-apple-iphone-13-pro-max-512gb-alpine-green",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063192",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 512GB Alpine Green",
+                "rating": {
+                    "star": 5,
+                    "count": 6,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063192b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063192.jpg",
+                    "Pdb/30063192b.jpg",
+                    "Pdb/30063192b1.jpg",
+                    "Pdb/30063192b2.jpg",
+                    "Pdb/30063192b3.jpg",
+                    "Pdb/30063192s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "512",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30059075",
+                "name": "Смартфон Apple iPhone 13 Pro Max 256GB Sierra Blue (MLMJ3RU/A)",
+                "nameTranslit": "smartfon-apple-iphone13promax-256gb-sierra-blue-mlmj3ru-a",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30059075",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 256GB Sierra Blue (MLMJ3RU/A)",
+                "rating": {
+                    "star": 4.764705882352941,
+                    "count": 17,
+                    "percent": 91
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30059075b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30059075.jpg",
+                    "Pdb/30059075b.jpg",
+                    "Pdb/30059075b1.jpg",
+                    "Pdb/30059075b2.jpg",
+                    "Pdb/30059075b3.jpg",
+                    "Pdb/30059075b4.jpg",
+                    "Pdb/30059075b5.jpg",
+                    "Pdb/30059075b6.jpg",
+                    "Pdb/30059075b7.jpg",
+                    "Pdb/30059075b8.jpg",
+                    "Pdb/30059075b9.jpg",
+                    "Pdb/30059075s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063587",
+                "name": "Смартфон Apple iPhone 13 Pro Max 1TB Sierra Blue",
+                "nameTranslit": "smartfon-apple-iphone13promax-1tb-sierra-blue",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063587",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 1TB Sierra Blue",
+                "rating": {
+                    "star": 5,
+                    "count": 5,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063587b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063587.jpg",
+                    "Pdb/30063587b.jpg",
+                    "Pdb/30063587b1.jpg",
+                    "Pdb/30063587b2.jpg",
+                    "Pdb/30063587b3.jpg",
+                    "Pdb/30063587b4.jpg",
+                    "Pdb/30063587b5.jpg",
+                    "Pdb/30063587b6.jpg",
+                    "Pdb/30063587b7.jpg",
+                    "Pdb/30063587b8.jpg",
+                    "Pdb/30063587b9.jpg",
+                    "Pdb/30063587s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1000",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 621228,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": "ТБ"
+                    }
+                ]
+            },
+            {
+                "productId": "30063584",
+                "name": "Смартфон Apple iPhone 13 Pro Max 1TB Graphite",
+                "nameTranslit": "smartfon-apple-iphone13promax-1tb-graphite",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063584",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 1TB Graphite",
+                "rating": {
+                    "star": 5,
+                    "count": 5,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063584b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063584.jpg",
+                    "Pdb/30063584b.jpg",
+                    "Pdb/30063584b1.jpg",
+                    "Pdb/30063584b2.jpg",
+                    "Pdb/30063584b3.jpg",
+                    "Pdb/30063584b4.jpg",
+                    "Pdb/30063584b5.jpg",
+                    "Pdb/30063584b6.jpg",
+                    "Pdb/30063584b7.jpg",
+                    "Pdb/30063584b8.jpg",
+                    "Pdb/30063584b9.jpg",
+                    "Pdb/30063584s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1000",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 621228,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": "ТБ"
+                    }
+                ]
+            },
+            {
+                "productId": "30059072",
+                "name": "Смартфон Apple iPhone 13 Pro Max 256GB Silver (MLMD3RU/A)",
+                "nameTranslit": "smartfon-apple-iphone13promax-256gb-silver-mlmd3ru-a",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30059072",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 256GB Silver (MLMD3RU/A)",
+                "rating": {
+                    "star": 5,
+                    "count": 5,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30059072b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30059072.jpg",
+                    "Pdb/30059072b.jpg",
+                    "Pdb/30059072b1.jpg",
+                    "Pdb/30059072b2.jpg",
+                    "Pdb/30059072b3.jpg",
+                    "Pdb/30059072b4.jpg",
+                    "Pdb/30059072b5.jpg",
+                    "Pdb/30059072b6.jpg",
+                    "Pdb/30059072b7.jpg",
+                    "Pdb/30059072b8.jpg",
+                    "Pdb/30059072b9.jpg",
+                    "Pdb/30059072s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063585",
+                "name": "Смартфон Apple iPhone 13 Pro Max 1TB Silver",
+                "nameTranslit": "smartfon-apple-iphone13promax-1tb-silver",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063585",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 1TB Silver",
+                "rating": {
+                    "star": 5,
+                    "count": 5,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063585b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063585.jpg",
+                    "Pdb/30063585b.jpg",
+                    "Pdb/30063585b1.jpg",
+                    "Pdb/30063585b2.jpg",
+                    "Pdb/30063585b3.jpg",
+                    "Pdb/30063585b4.jpg",
+                    "Pdb/30063585b5.jpg",
+                    "Pdb/30063585b6.jpg",
+                    "Pdb/30063585b7.jpg",
+                    "Pdb/30063585b8.jpg",
+                    "Pdb/30063585b9.jpg",
+                    "Pdb/30063585s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1000",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 621228,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": "ТБ"
+                    }
+                ]
+            },
+            {
+                "productId": "30059068",
+                "name": "Смартфон Apple iPhone 13 Pro Max 128GB Silver (MLLQ3RU/A)",
+                "nameTranslit": "smartfon-apple-iphone13promax-128gb-silver-mllq3ru-a",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30059068",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 128GB Silver (MLLQ3RU/A)",
+                "rating": {
+                    "star": 5,
+                    "count": 5,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30059068b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30059068.jpg",
+                    "Pdb/30059068b.jpg",
+                    "Pdb/30059068b1.jpg",
+                    "Pdb/30059068b2.jpg",
+                    "Pdb/30059068b3.jpg",
+                    "Pdb/30059068b4.jpg",
+                    "Pdb/30059068b5.jpg",
+                    "Pdb/30059068b6.jpg",
+                    "Pdb/30059068b7.jpg",
+                    "Pdb/30059068b8.jpg",
+                    "Pdb/30059068b9.jpg",
+                    "Pdb/30059068s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "128",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30063586",
+                "name": "Смартфон Apple iPhone 13 Pro Max 1TB Gold",
+                "nameTranslit": "smartfon-apple-iphone13promax-1tb-gold",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30063586",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 1TB Gold",
+                "rating": {
+                    "star": 4.8,
+                    "count": 5,
+                    "percent": 91
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30063586b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30063586.jpg",
+                    "Pdb/30063586b.jpg",
+                    "Pdb/30063586b1.jpg",
+                    "Pdb/30063586b2.jpg",
+                    "Pdb/30063586b3.jpg",
+                    "Pdb/30063586b4.jpg",
+                    "Pdb/30063586b5.jpg",
+                    "Pdb/30063586b6.jpg",
+                    "Pdb/30063586b7.jpg",
+                    "Pdb/30063586b8.jpg",
+                    "Pdb/30063586b9.jpg",
+                    "Pdb/30063586s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1000",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 621228,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": "ТБ"
+                    }
+                ]
+            },
+            {
+                "productId": "30059081",
+                "name": "Смартфон Apple iPhone 13 Pro Max 512GB Gold (MLMV3RU/A)",
+                "nameTranslit": "smartfon-apple-iphone13promax-512gb-gold-mlmv3ru-a",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30059081",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 512GB Gold (MLMV3RU/A)",
+                "rating": {
+                    "star": 4.8,
+                    "count": 5,
+                    "percent": 91
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30059081b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30059081.jpg",
+                    "Pdb/30059081b.jpg",
+                    "Pdb/30059081b1.jpg",
+                    "Pdb/30059081b2.jpg",
+                    "Pdb/30059081b3.jpg",
+                    "Pdb/30059081b4.jpg",
+                    "Pdb/30059081b5.jpg",
+                    "Pdb/30059081b6.jpg",
+                    "Pdb/30059081b7.jpg",
+                    "Pdb/30059081b8.jpg",
+                    "Pdb/30059081b9.jpg",
+                    "Pdb/30059081s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "512",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "30059090",
+                "name": "Смартфон Apple iPhone 13 Pro Max 1TB Gold (MLN93RU/A)",
+                "nameTranslit": "smartfon-apple-iphone13promax-1tb-gold-mln93ru-a",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30059090",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 1TB Gold (MLN93RU/A)",
+                "rating": {
+                    "star": 5,
+                    "count": 4,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30059090b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30059090.jpg",
+                    "Pdb/30059090b.jpg",
+                    "Pdb/30059090b1.jpg",
+                    "Pdb/30059090b2.jpg",
+                    "Pdb/30059090b3.jpg",
+                    "Pdb/30059090b4.jpg",
+                    "Pdb/30059090b5.jpg",
+                    "Pdb/30059090b6.jpg",
+                    "Pdb/30059090b7.jpg",
+                    "Pdb/30059090b8.jpg",
+                    "Pdb/30059090b9.jpg",
+                    "Pdb/30059090s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1000",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 621228,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": "ТБ"
+                    }
+                ]
+            },
+            {
+                "productId": "30059085",
+                "name": "Смартфон Apple iPhone 13 Pro Max 1TB Graphite (MLN63RU/A)",
+                "nameTranslit": "smartfon-apple-iphone13promax-1tb-graphite-mln63ru-a",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30059085",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 1TB Graphite (MLN63RU/A)",
+                "rating": {
+                    "star": 5,
+                    "count": 4,
+                    "percent": 101
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30059085b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30059085.jpg",
+                    "Pdb/30059085b.jpg",
+                    "Pdb/30059085b1.jpg",
+                    "Pdb/30059085b2.jpg",
+                    "Pdb/30059085b3.jpg",
+                    "Pdb/30059085b4.jpg",
+                    "Pdb/30059085b5.jpg",
+                    "Pdb/30059085b6.jpg",
+                    "Pdb/30059085b7.jpg",
+                    "Pdb/30059085b8.jpg",
+                    "Pdb/30059085b9.jpg",
+                    "Pdb/30059085s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1000",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 621228,
+                        "name": "Встроенная память (ROM)",
+                        "value": "1",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 5,
+                        "measure": "ТБ"
+                    }
+                ]
+            },
+            {
+                "productId": "30059073",
+                "name": "Смартфон Apple iPhone 13 Pro Max 256GB Gold (MLMG3RU/A)",
+                "nameTranslit": "smartfon-apple-iphone13promax-256gb-gold-mlmg3ru-a",
+                "productType": "DIG",
+                "usedProductType": null,
+                "materialCisNumber": "30059073",
+                "materialSource": "ERP",
+                "modelName": "iPhone 13 Pro Max 256GB Gold (MLMG3RU/A)",
+                "rating": {
+                    "star": 4.545454545454546,
+                    "count": 11,
+                    "percent": 91
+                },
+                "supplier": null,
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/30059073b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/30059073.jpg",
+                    "Pdb/30059073b.jpg",
+                    "Pdb/30059073b1.jpg",
+                    "Pdb/30059073b2.jpg",
+                    "Pdb/30059073b3.jpg",
+                    "Pdb/30059073b4.jpg",
+                    "Pdb/30059073b5.jpg",
+                    "Pdb/30059073b6.jpg",
+                    "Pdb/30059073b7.jpg",
+                    "Pdb/30059073b8.jpg",
+                    "Pdb/30059073b9.jpg",
+                    "Pdb/30059073s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "400007561",
+                "name": "Смартфон Apple iPhone 13 Pro Max 256Gb Alpine Green",
+                "nameTranslit": "smartfon-apple-iphone-13-pro-max-256gb-alpine-green",
+                "productType": "ZCON",
+                "usedProductType": null,
+                "materialCisNumber": "400007561",
+                "materialSource": "shelf",
+                "modelName": "iPhone 13 Pro Max 256Gb Alpine Green",
+                "rating": {
+                    "star": 5,
+                    "count": 1,
+                    "percent": 101
+                },
+                "supplier": {
+                    "id": "K000055543",
+                    "name": "ИП Красников Константин Владимирови",
+                    "address": "366108, ст-ца Шелковская, Мажатова, 1",
+                    "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                    "ogrn": "322265100052331",
+                    "inn": "263607497512",
+                    "phone": "+79614978138"
+                },
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/400007561b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/400007561.jpg",
+                    "Pdb/400007561b.jpg",
+                    "Pdb/400007561s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/1284x2778 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12/TOF",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    },
+                    {
+                        "id": 606261,
+                        "name": "Оптическая стабилизация",
+                        "value": "Да",
+                        "nameDescription": "Система механической компенсации дрожания камеры, благодаря которой изображение на снимках и видеосъемки не смазывается даже при активном движении.",
+                        "valueDescription": null,
+                        "priority": 8,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "4199174",
+                "name": "Смартфон Apple iPhone 13 Pro Max A2641 256Gb Green (A2641)",
+                "nameTranslit": "smartfon-apple-iphone-13-pro-max-a2641-256gb-green-a2641",
+                "productType": "ZCON",
+                "usedProductType": null,
+                "materialCisNumber": "4199174",
+                "materialSource": "shelf",
+                "modelName": "iPhone 13 Pro Max A2641 256Gb Green (A2641)",
+                "rating": {
+                    "star": null,
+                    "count": null,
+                    "percent": null
+                },
+                "supplier": {
+                    "id": "K000022241",
+                    "name": "ООО \"Эдил-Импорт\"",
+                    "address": "140125, село Михайловская Слобода, Промышленная улица, 1к1",
+                    "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                    "ogrn": "1037739972533",
+                    "inn": "7733510051",
+                    "phone": "+74957250408"
+                },
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/4199174b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/4199174.jpg",
+                    "Pdb/4199174b.jpg",
+                    "Pdb/4199174b1.jpg",
+                    "Pdb/4199174b2.jpg",
+                    "Pdb/4199174b3.jpg",
+                    "Pdb/4199174b4.jpg",
+                    "Pdb/4199174s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/1284x2778 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "IPS",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": "Разновидность жидкокристаллического дисплея, изготовленного по технологии TFT. Характеризуется хорошей цветопередачей, высокой яркостью и контрастностью, широкими углами обзора (до 178 градусов).",
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "4199171",
+                "name": "Смартфон Apple iPhone 13 Pro Max 128GB Sierra Blue (A2641)",
+                "nameTranslit": "smartfon-apple-iphone13promax-128gb-sierra-blue-a2641",
+                "productType": "ZCON",
+                "usedProductType": null,
+                "materialCisNumber": "4199171",
+                "materialSource": "shelf",
+                "modelName": "iPhone 13 Pro Max 128GB Sierra Blue (A2641)",
+                "rating": {
+                    "star": null,
+                    "count": null,
+                    "percent": null
+                },
+                "supplier": {
+                    "id": "K000022241",
+                    "name": "ООО \"Эдил-Импорт\"",
+                    "address": "140125, село Михайловская Слобода, Промышленная улица, 1к1",
+                    "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                    "ogrn": "1037739972533",
+                    "inn": "7733510051",
+                    "phone": "+74957250408"
+                },
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/4199171b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": true,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/4199171.jpg",
+                    "Pdb/4199171b.jpg",
+                    "Pdb/4199171b1.jpg",
+                    "Pdb/4199171b2.jpg",
+                    "Pdb/4199171b3.jpg",
+                    "Pdb/4199171b4.jpg",
+                    "Pdb/4199171b5.jpg",
+                    "Pdb/4199171s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/2778x1284 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "128",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "400006243",
+                "name": "Смартфон Apple iPhone 13 Pro Max 256GB Grey",
+                "nameTranslit": "smartfon-apple-iphone-13-pro-max-256gb-grey",
+                "productType": "ZCON",
+                "usedProductType": null,
+                "materialCisNumber": "400006243",
+                "materialSource": "shelf",
+                "modelName": "iPhone 13 Pro Max 256GB Grey",
+                "rating": {
+                    "star": null,
+                    "count": null,
+                    "percent": null
+                },
+                "supplier": {
+                    "id": "K000055569",
+                    "name": "ООО ООО \"МАРКЕТПЛЕЙС\"",
+                    "address": "197136, Санкт-Петербург, Ленина, 20, к1, 193",
+                    "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                    "ogrn": "1157847066992",
+                    "inn": "7814184737",
+                    "phone": "+79312633680"
+                },
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/400006243b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/400006243.jpg",
+                    "Pdb/400006243b.jpg",
+                    "Pdb/400006243b1.jpg",
+                    "Pdb/400006243s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/1284x2778 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "OLED",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": null,
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    },
+                    {
+                        "id": 606261,
+                        "name": "Оптическая стабилизация",
+                        "value": "Да",
+                        "nameDescription": "Система механической компенсации дрожания камеры, благодаря которой изображение на снимках и видеосъемки не смазывается даже при активном движении.",
+                        "valueDescription": null,
+                        "priority": 8,
+                        "measure": null
+                    }
+                ]
+            },
+            {
+                "productId": "4199172",
+                "name": "Смартфон Apple iPhone 13 Pro Max A2641 128Gb Green (A2641)",
+                "nameTranslit": "smartfon-apple-iphone-13-pro-max-a2641-128gb-green-a2641",
+                "productType": "ZCON",
+                "usedProductType": null,
+                "materialCisNumber": "4199172",
+                "materialSource": "shelf",
+                "modelName": "iPhone 13 Pro Max A2641 128Gb Green (A2641)",
+                "rating": {
+                    "star": null,
+                    "count": null,
+                    "percent": null
+                },
+                "supplier": {
+                    "id": "K000022241",
+                    "name": "ООО \"Эдил-Импорт\"",
+                    "address": "140125, село Михайловская Слобода, Промышленная улица, 1к1",
+                    "workSchedule": "Режим работы: согласно режиму работы ООО \"МВМ\"",
+                    "ogrn": "1037739972533",
+                    "inn": "7733510051",
+                    "phone": "+74957250408"
+                },
+                "vendorCatalog": null,
+                "sublicense": false,
+                "partnerType": null,
+                "preorder": null,
+                "isMprimeSubscription": false,
+                "image": "Pdb/small_pic/480/4199172b.jpg",
+                "brandId": "685",
+                "brandName": "Apple",
+                "status": {
+                    "showCase": false,
+                    "availableOnlyInRetailStore": false,
+                    "soldOut": false,
+                    "isCannotBeExchanged": false
+                },
+                "category": {
+                    "id": "914",
+                    "name": "iPhone"
+                },
+                "properties": null,
+                "images": [
+                    "Pdb/4199172.jpg",
+                    "Pdb/4199172b.jpg",
+                    "Pdb/4199172b1.jpg",
+                    "Pdb/4199172b2.jpg",
+                    "Pdb/4199172b3.jpg",
+                    "Pdb/4199172b4.jpg",
+                    "Pdb/4199172s.jpg"
+                ],
+                "propertiesPortion": [
+                    {
+                        "id": 30848201,
+                        "name": "Экран",
+                        "value": "6.7\"/1284x2778 Пикс",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 1,
+                        "measure": null
+                    },
+                    {
+                        "id": 30852907,
+                        "name": "Технология экрана",
+                        "value": "IPS",
+                        "nameDescription": "Технология получения изображения, на которой построен экран девайса. На данный момент выделяют TFT-, OLED-, AMOLED- и IPS-дисплеи, которые различаются яркостью, качеством изображения и энергопотреблением.",
+                        "valueDescription": "Разновидность жидкокристаллического дисплея, изготовленного по технологии TFT. Характеризуется хорошей цветопередачей, высокой яркостью и контрастностью, широкими углами обзора (до 178 градусов).",
+                        "priority": 2,
+                        "measure": null
+                    },
+                    {
+                        "id": 637,
+                        "name": "Тип процессора",
+                        "value": "A15 Bionic",
+                        "nameDescription": "Процессоры каждого производителя объединяются в линейки по своему типу. Тип процессора указывает на его основное назначение: для домашнего компьютера, рабочего или игрового.",
+                        "valueDescription": null,
+                        "priority": 3,
+                        "measure": null
+                    },
+                    {
+                        "id": 613463,
+                        "name": "Встроенная память (ROM)",
+                        "value": "256",
+                        "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                        "valueDescription": null,
+                        "priority": 4,
+                        "measure": "ГБ"
+                    },
+                    {
+                        "id": 30848204,
+                        "name": "Основная камера МПикс",
+                        "value": "12/12/12",
+                        "nameDescription": null,
+                        "valueDescription": null,
+                        "priority": 6,
+                        "measure": null
+                    }
+                ]
+            }
+        ]
+    }
+}
